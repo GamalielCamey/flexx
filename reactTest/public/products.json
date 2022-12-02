@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "Razer Blackshark V2 X",
+      "code": "SDD456",
+      "price": 72372,
+      "image": "https://res.cloudinary.com/dtfz9e5yp/image/upload/v1669955406/D_NQ_NP_870306-MLA43711110583_102020-O_skihgh.webp"
+    },
+    {
+      "name": "Corsair H3S5",
+      "code": "TRT466",
+      "price": 7232,
+      "image": "https://res.cloudinary.com/dtfz9e5yp/image/upload/v1669955405/D_NQ_NP_763393-MLA45270103901_032021-O_y1zw4u.webp"
+    },
+    {
+      "name": "JBL Quantum",
+      "code": "SDR567",
+      "price": 98734,
+      "image": "https://res.cloudinary.com/dtfz9e5yp/image/upload/v1669955405/D_NQ_NP_887261-MLA45568798818_042021-O_rrcjxu.webp"
+    },
+    {
+      "name": "Onikuma K19 Negro",
+      "code": "RTD656",
+      "price": 77852,
+      "image": "https://res.cloudinary.com/dtfz9e5yp/image/upload/v1669955405/D_NQ_NP_652412-MLA40812894233_022020-O_iicamf.webp"
+    },
+    {
+      "name": "Onikuma K5 Black",
+      "code": "SXD676",
+      "price": 83045,
+      "image": "https://res.cloudinary.com/dtfz9e5yp/image/upload/v1669955405/D_NQ_NP_652412-MLA40812894233_022020-O_iicamf.webp"
+    }
+  ]
+}
